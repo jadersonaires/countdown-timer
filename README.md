@@ -9,5 +9,12 @@ The objective of Countdown Timer is to provide a continuously decrementing displ
   - Try to use Styled Component, for styles is inside your components.
   - Do not use packages that handle dates and times, such as [MomentJs](https://momentjs.com/)
 
+
+##### Image
+![](https://github.com/jadersonaires/countdown-timer/blob/master/src/img/countdown-timer.jpg)
+> Project image on Figma
+
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
