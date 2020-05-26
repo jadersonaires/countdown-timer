@@ -1,0 +1,15 @@
+:root {
+    /*Fonts*/
+    --font-roboto: 'Roboto', sans-serif;
+    /* Font Weight */
+    --font-light: 300;
+    --font-regular: 400;
+    --font-medium: 500;
+    --font-bold: 700;
+    --font-black: 900;
+    /*Color*/
+    --color-white: #ffffff;
+    --color-segundar: #868e96;
+    /*Background*/
+    --bg-defaut: url("../img/mohammad.jpg");
+}

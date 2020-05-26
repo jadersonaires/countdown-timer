@@ -1,0 +1,23 @@
+@import url('./reset.css');
+@import url('./variables.css');
+
+body {
+    font-family: var(--font-roboto);
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--color-segundar);
+    line-height: 1.5;
+
+    background-image: var(--bg-defaut);
+    background-position: center;
+    background-size: cover;
+    background-color: #444;
+}
+
+hgroup{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+}
+
