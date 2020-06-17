@@ -10,7 +10,7 @@ import Main from './components/Main'
 function App() {
 	return (
 		<hgroup>
-			<Header nameDev="Jaderson Aires Ferreira" />
+			<Header nameDev="GitHub" />
 			<Main />
 		</hgroup>
 	);
